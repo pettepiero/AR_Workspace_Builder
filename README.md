@@ -10,7 +10,7 @@ The user can select a number of objects from different sets. Within each, the us
 - Extract the folder to Unity's project location.
 - Open Unity Hub and press the Open button and select the folder.
 
-#### If you use this repository, please mention *[u](<https://github.com/pettepiero>)[s](<https://github.com/CasarottoEnricoMeccatronica>)*.
+#### If you use this repository, please mention *[u](<https://github.com/pettepiero>)[s](<https://github.com/ec-unipd>)*.
 
 <br>
 
