@@ -1,0 +1,42 @@
+DOCUMENTATION
+
+
+This package contains a collection of 14 detailed screw heads and a washer with 5 different materials (rust, black metal, titanium, copper and aluminium). The model sizes are 10 cm, 5 cm and 2.5 cm. The asset supports Builtin RP, URP and HDRP. 
+The asset also contains a set of icons if you want to use the models with the Surforge asset. In the Surforge manual you can find a description how to do that under "Creating custom Surforge assets -> Creating Add Detail tool assets".
+
+Please note:
+
+When importing the asset to your project you only need to import the desired render pipeline folder (Builtin RP, URP, HDRP) and the General folder + Demo and Post Processing if you want.
+If you switch between Builtin RP demo, URP demo and HDRP demo don‘t forget to remove or add the RenderPipelineAsset in Project Settings -> Graphics -> Scriptable Render Pipeline Settings. If you want to use the URP or HDRP demo don't forget to install URP or HDRP from the package manager.
+
+You can find the RenderPipelineAsset in URP/RenderPipeline/UniversalRenderPipelineAsset
+
+
+Texture resolution: 2048 x 2048
+
+
+Included:
+
+- 225 prefabs ready to use with Builtin RP, URP and HDRP. 75 High Poly | 75 Medium Poly | 75 Low Poly
+- 5 different materials (rust, black metal, titanium, copper and aluminium).
+- Texture for all render pipelines.
+- Materials for Builtin RP, URP and HDRP.
+- Demo scene for Builtin RP, URP and HDRP.
+- 3D models.
+- Surforge model icons if you want to use the models with the Surforge asset.
+
+Polygon count ranges:
+
+Low poly models: 35 - 266
+
+Medium poly models: 225 - 1084
+
+High poly models: 482 - 4416
+
+
+
+If you have any questions ideas please contact me:
+
+https://forum.unity.com/threads/release-screw-heads-pack-free.905882/
+
+dirk.jacobasch@outlook.com
